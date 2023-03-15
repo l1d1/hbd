@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+body{
+	background-image: url(sky3.gif);
+	margin-top: 8vh;
+}
+p{
+	color: white;
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size: 24pt;
+	text-shadow: 2pt 2pt 2pt #B7A6F6;
+}
